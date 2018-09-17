@@ -16,3 +16,5 @@ In this project I leaned...
 ![Home Page](https://github.com/GamertodArk/my-first-laravel-project/blob/master/project-screenshots/home-screen.png)
 ![Post List](https://github.com/GamertodArk/my-first-laravel-project/blob/master/project-screenshots/posts-list.png)
 ![Post View](https://github.com/GamertodArk/my-first-laravel-project/blob/master/project-screenshots/post-view.jpg)
+
+You can see the whole album in my [imgur](https://imgur.com/a/Gz6HWEC) or [behance](https://www.behance.net/cavesagarcb09e) accounts
