@@ -13,3 +13,4 @@ In this project I leaned...
  - Some Blade systax
 
 ## Screenshots
+![Home Page](https://imgur.com/KA20z7U)
