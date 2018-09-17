@@ -13,4 +13,4 @@ In this project I leaned...
  - Some Blade systax
 
 ## Screenshots
-![Home Page](https://imgur.com/KA20z7U)
+![Home](https://github.com/GamertodArk/my-first-laravel-project/blob/master/project-screenshots/home-screen.png)
