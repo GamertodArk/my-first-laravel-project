@@ -1,5 +1,7 @@
 ## A normal Blog
 
+This is a full functional blog built using the Laravel technology, here you can post content, titles, cover pictures and some other. The Laravel version this blog uses is the 5.7 version.
+
 This project is just a normal blog, it doesn't have anything special, I did it because I wanted to learn the basics of Laravel and this project coverd all of them
 
 For this project I followd the Traversy media's youtube series, you'll find out this project and his tutorial's are pretty much the same
